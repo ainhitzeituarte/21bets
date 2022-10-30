@@ -19,7 +19,7 @@ import businesslogic.BLFacadeImplementation;
 import dataaccess.DataAccess;
 import domain.Registered;
 
-@RunWith(MockitoJUnitRunner.class)
+/*@RunWith(MockitoJUnitRunner.class)
 public class RankingLortuMockINTTest {
 	DataAccess da=Mockito.mock(DataAccess.class);
 	@Mock
@@ -99,4 +99,4 @@ public class RankingLortuMockINTTest {
 			fail();
 		}
 	}
-}
+}*/

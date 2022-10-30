@@ -12,7 +12,7 @@ import dataaccess.DataAccess;
 import domain.Registered;
 import test.dataAccess.TestDataAccess;
 
-public class RankingLortuDAWTest {
+/*public class RankingLortuDAWTest {
 	static DataAccess sut=new DataAccess();
 	static TestDataAccess testDA=new TestDataAccess();
 	
@@ -162,4 +162,4 @@ public class RankingLortuDAWTest {
 			fail();
 		}
 	}
-}
+}*/
