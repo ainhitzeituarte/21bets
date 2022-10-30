@@ -1,6 +1,6 @@
 package lortuRanking;
 
-
+ 
 
 import static org.junit.Assert.*;
 
