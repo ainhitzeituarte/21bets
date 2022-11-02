@@ -19,7 +19,7 @@ import domain.Event;
 import exceptions.EventFinished;
 import exceptions.QuestionAlreadyExist;
 
-public class GertaerakSortuDAB {
+public class GertaerakSortuDABTest {
 
 	// sut:system under test
 	static DataAccess sut = new DataAccess();

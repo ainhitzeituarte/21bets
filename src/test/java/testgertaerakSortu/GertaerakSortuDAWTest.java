@@ -14,7 +14,7 @@ import dataaccess.DataAccess;
 //import test.dataaccess.TestDataAccess;
 import domain.Event;
 
-public class GertaerakSortuDAW {
+public class GertaerakSortuDAWTest {
 
 	// sut:system under test
 	static DataAccess sut = new DataAccess();
