@@ -225,7 +225,7 @@ public class GertaerakSortuMockINTTest {
 			Date data = null;
 			
 			try {
-				data = sdf.parse("17/10/2022");
+				data = sdf.parse("02/11/2022");
 			} catch (ParseException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -256,7 +256,7 @@ public class GertaerakSortuMockINTTest {
 			Date data = null;
 			
 			try {
-				data = sdf.parse("18/10/2022");
+				data = sdf.parse("03/11/2022");
 			} catch (ParseException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -287,7 +287,7 @@ public class GertaerakSortuMockINTTest {
 			Date data = null;
 			
 			try {
-				data = sdf.parse("19/10/2022");
+				data = sdf.parse("04/11/2022");
 			} catch (ParseException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();

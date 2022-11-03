@@ -220,7 +220,7 @@ public class GertaerakSortuDABTest {
 			Date data = null;
 			
 			try {
-				data = sdf.parse("09/10/2022");
+				data = sdf.parse("03/11/2022");
 			} catch (ParseException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -262,7 +262,7 @@ public class GertaerakSortuDABTest {
 			Date data = null;
 			
 			try {
-				data = sdf.parse("10/10/2022");
+				data = sdf.parse("04/11/2022");
 			} catch (ParseException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
